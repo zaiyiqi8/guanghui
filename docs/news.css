@@ -18,7 +18,7 @@ html, body {
 				margin: -100px 0 0 0;
 				position: absolute;
 				left: 0;
-				top: 80%;
+				bottom: 20%;
 			}
 			#wrapper h3 {
 				font-size: 20px;
